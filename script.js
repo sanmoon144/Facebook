@@ -1,39 +1,39 @@
 var user = {
-    username: "Ye Tun Aung",
-    password: "yta1968"
+    username: "Su Su",
+    password: "ss1977"
 };
 
 var database = [
     user,
     {
-        username: "Thura Ye Tun",
-        password: "tyyt2001"
+        username: "Kyaw Zaw",
+        password: "kz2001"
     },
     {
-        username: "Maythansin Ye Tun",
-        password: "mpk2006"
+        username: "Shine Htet",
+        password: "sh2006"
     },
     {
-        username: "Hla Hla Win",
-        password: "hhw1968"
+        username: "Kaung Myat",
+        password: "km1978"
     },
 ];
 
 var newsFeed = [
     {
-        username: "Thura",
+        username: "Zaw",
         timeline: "So tired from all that learning!"
     },
     {
-        username: "PuKywe",
+        username: "Htet",
         timeline: "Scratch is so cool!",
     },
     {
-        username: "Ye Tun Aung",
+        username: "Su Su",
         timeline: "JavaScript is pretty cool!",
     },
     {
-        username: "Hla Hla Win",
+        username: "Myat",
         timeline: "Head is a little difficult.",
     }
 ];
